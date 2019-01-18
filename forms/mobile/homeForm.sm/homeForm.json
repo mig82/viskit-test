@@ -29,7 +29,9 @@
         "needAppMenu": false
     },
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "fooFlex"
+    ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {

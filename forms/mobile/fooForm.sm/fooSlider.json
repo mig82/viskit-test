@@ -35,6 +35,7 @@
         "value": "300dp"
     },
     "android": {
+        "focusThumbImage": "slider_android.png",
         "thumbImage": "slider_android.png"
     },
     "androidwearos": {
@@ -48,6 +49,7 @@
             "viewType": "default"
         }
     },
+    "focusthumbimage": "slider.png",
     "id": "fooSlider",
     "info": null,
     "ipad": {

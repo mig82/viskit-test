@@ -5,7 +5,7 @@
         "type": "string",
         "value": "150dp"
     },
-    "_image_": null,
+    "_image_": "tabs.png",
     "_margin_": [
         0,
         0,
@@ -33,6 +33,7 @@
     "enablescrolling": true,
     "id": "Tab0fe269ff7c3d540",
     "info": null,
+    "invokedProperty": "image",
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "e51820a7899045a3bf626fb1a898eb8a",

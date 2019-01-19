@@ -32,7 +32,8 @@
     "children": [
         "fooFlex",
         "fooCalendar",
-        "fooButton"
+        "fooButton",
+        "fooTabPane"
     ],
     "containerweight": 100,
     "controllerInfo": {

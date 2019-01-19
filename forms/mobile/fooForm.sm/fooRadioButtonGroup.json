@@ -38,6 +38,7 @@
     },
     "canUpdateUI": true,
     "containerweight": 100,
+    "dropdownimage": "magnifying_glass.png",
     "groupcells": false,
     "id": "fooRadioButtonGroup",
     "info": null,
@@ -48,8 +49,10 @@
     },
     "iphone": {
         "psp": {
+            "dropDownImage": "magnifying_glass.png",
             "viewType": 0
-        }
+        },
+        "tickedImage": "pageondot.png"
     },
     "iscustomlayout": false,
     "isvisible": true,
@@ -77,6 +80,8 @@
     "selectedkey": null,
     "selectedkeyvalue": null,
     "size": 18,
+    "tickedimage": "pageondot.png",
+    "untickedimage": "pageoffdot.png",
     "viewconfig": {
         "toggleViewConfig": {
             "viewStyle": 0
@@ -85,5 +90,8 @@
     "viewtype": 0,
     "wType": "RadioButtonGroup",
     "widgetalignment": 5,
+    "winphone8": {
+        "untickedImage": "pageoffdot.png"
+    },
     "zindex": 1
 }

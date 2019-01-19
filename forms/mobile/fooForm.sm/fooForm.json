@@ -31,7 +31,8 @@
     "canUpdateUI": true,
     "children": [
         "fooBoxGroup",
-        "fooListBox"
+        "fooListBox",
+        "fooRadioButtonGroup"
     ],
     "containerweight": 100,
     "controllerInfo": {

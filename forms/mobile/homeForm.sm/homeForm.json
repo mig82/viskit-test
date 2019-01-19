@@ -31,7 +31,8 @@
     "canUpdateUI": true,
     "children": [
         "fooFlex",
-        "fooCalendar"
+        "fooCalendar",
+        "fooButton"
     ],
     "containerweight": 100,
     "controllerInfo": {

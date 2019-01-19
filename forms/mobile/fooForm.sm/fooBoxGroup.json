@@ -31,6 +31,9 @@
         "type": "string",
         "value": "78.22%"
     },
+    "android": {
+        "untickedImage": "pageondot.png"
+    },
     "canUpdateUI": true,
     "containerweight": 100,
     "id": "fooBoxGroup",
@@ -75,6 +78,7 @@
     "selectedkeyvalues": null,
     "size": 18,
     "tickedimage": "option1.png",
+    "untickedimage": "listboxarw.png",
     "viewtype": 0,
     "wType": "CheckBoxGroup",
     "widgetalignment": 5,

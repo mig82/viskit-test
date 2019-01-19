@@ -32,14 +32,21 @@
         "type": "string",
         "value": "300dp"
     },
+    "android": {
+        "tickedImage": "pageondot.png",
+        "untickedImage": "pageoffdot.png"
+    },
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 4,
-    "dropdownimage": "listboxarw.png",
+    "dropdownimage": "pageoffdot.png",
     "focusskin": "s1124b9b91414a42a70ceeee6876ba85",
     "groupcells": false,
     "id": "fooListBox",
     "info": null,
+    "iphone": {
+        "dropDownImage": "listboxarw.png"
+    },
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "df4e0f544ae149a1b4df8177960a8b46",
@@ -67,6 +74,8 @@
     "selectedkeyvalue": null,
     "selectedkeyvalues": null,
     "size": 18,
+    "tickedimage": "pageondot.png",
+    "untickedimage": "option4.png",
     "viewconfig": {
         "toggleViewConfig": {
             "viewStyle": 0

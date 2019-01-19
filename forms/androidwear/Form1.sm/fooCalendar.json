@@ -2,18 +2,16 @@
     "@class": "com.kony.gen.viz.model.component.KVizDateField",
     "DNDConfig": null,
     "Image": "calbtn.png",
-    "__id": "homeForm_fooCalendar",
-    "__input": "fooCalendar",
     "__parentReadjusting__": false,
     "_data_": null,
-    "_date_": "18/1/2019",
+    "_date_": "19/1/2019",
     "_height_": {
         "type": "string",
         "value": "40dp"
     },
     "_left_": {
         "type": "string",
-        "value": "43dp"
+        "value": "10dp"
     },
     "_margin_": [
         0,
@@ -27,25 +25,22 @@
         0,
         0
     ],
-    "_skin_": "s53a78189d3a4616a82fee3674209aef",
+    "_skin_": "sc856848ff614c9aaeb71fcc2f27d40f",
     "_top_": {
         "type": "string",
-        "value": "270dp"
+        "value": "31dp"
     },
     "_width_": {
         "type": "string",
-        "value": "300dp"
+        "value": "90.63%"
     },
     "advview": "default",
-    "android": {
-        "calendarIcon": "option4.png"
-    },
     "calendaricon": "calbtn.png",
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 5,
     "datecomponents": [
-        18,
+        19,
         1,
         2019,
         0,
@@ -54,73 +49,32 @@
     ],
     "dateeditable": true,
     "dateformat": "dd/MM/yyyy",
-    "datesGroup": [],
-    "datesState": 0,
-    "day": 18,
+    "day": 19,
     "daytextalignmentincell": 5,
-    "displayedMonths": [
-        1,
-        2019
-    ],
-    "entereddate": [
-        18,
-        1,
-        2019,
-        0,
-        0,
-        0
-    ],
     "format": "dd/MM/yyyy",
-    "formatteddate": "18/01/2019",
+    "formatteddate": "19/01/2019",
     "hidedaysheader": false,
     "hidemonthsheader": false,
     "hour": 0,
     "id": "fooCalendar",
     "info": null,
-    "invokedProperty": "rightNavigationImage",
-    "iphone": {
-        "calendarIcon": "calbtn.png"
-    },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "fa635de77a8b4a95a76a675b03b74eef",
+    "kuid": "c056ab51312446f4bd8b7c24223033fa",
     "minutes": 0,
     "month": 1,
-    "monthsinrow": 3,
     "name": "kony.ui.Calendar",
-    "navigatorAlert": "Invalid Selection",
     "noofmonths": 1,
     "pagedate": "/2019",
-    "parent": "homeForm",
-    "pf": "homeForm",
-    "popupHeight": "auto",
-    "popupWidth": "auto",
+    "parent": "Form1",
+    "pf": "Form1",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "seconds": 0,
     "selectdate": "//2019",
-    "spa": {
-        "calendarIcon": "option4.png"
-    },
-    "startDay": 0,
-    "viewconfig": {
-        "gridConfig": {
-            "leftNavigationImage": "pageoffdot.png",
-            "rightNavigationImage": "pageondot.png"
-        }
-    },
     "viewtype": "default",
     "wType": "Calendar",
     "widgetalignment": 5,
-    "widths": [
-        "14.2857%;",
-        "14.2857%;",
-        "14.2857%;",
-        "14.2857%;",
-        "14.2857%;",
-        "14.2857%;",
-        "14.2857%;"
-    ],
     "year": 2019,
     "zindex": 1
 }

@@ -30,7 +30,8 @@
     },
     "canUpdateUI": true,
     "children": [
-        "fooBoxGroup"
+        "fooBoxGroup",
+        "fooListBox"
     ],
     "containerweight": 100,
     "controllerInfo": {

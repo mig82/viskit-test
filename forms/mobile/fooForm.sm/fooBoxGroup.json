@@ -74,9 +74,12 @@
     "selectedkeyvalue": null,
     "selectedkeyvalues": null,
     "size": 18,
+    "tickedimage": "option1.png",
     "viewtype": 0,
     "wType": "CheckBoxGroup",
     "widgetalignment": 5,
-    "winphone8": {},
+    "winphone8": {
+        "tickedImage": "listboxarw.png"
+    },
     "zindex": 1
 }

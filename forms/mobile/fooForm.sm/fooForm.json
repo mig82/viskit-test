@@ -32,7 +32,8 @@
     "children": [
         "fooBoxGroup",
         "fooListBox",
-        "fooRadioButtonGroup"
+        "fooRadioButtonGroup",
+        "fooSlider"
     ],
     "containerweight": 100,
     "controllerInfo": {

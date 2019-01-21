@@ -234,10 +234,10 @@
     <attributes name="CALL_PRIVILEGED" value="false"/>
     <attributes name="CAMERA" value="false"/>
     <attributes name="camerasettings" value=""/>
-    <attributes name="certs_key_store_pwd" value=""/>
+    <attributes name="certs_key_store_pwd" value="kds/0eUc+i3BqFqSkpCk4g=="/>
     <attributes name="certs_key_store_type" value="JKS"/>
     <attributes name="certs_ssl_algorithm" value="TLS"/>
-    <attributes name="certs_trust_store_pwd" value=""/>
+    <attributes name="certs_trust_store_pwd" value="kds/0eUc+i3BqFqSkpCk4g=="/>
     <attributes name="certs_trust_store_type" value="JKS"/>
     <attributes name="CHANGE_COMPONENT_ENABLED_STATE" value="false"/>
     <attributes name="CHANGE_CONFIGURATION" value="false"/>
@@ -250,8 +250,11 @@
     <attributes name="cloud_account_guid" value="0efeca2c-d80f-47db-9cae-bfa681b5bb39"/>
     <attributes name="cloud_account_id" value="100020796"/>
     <attributes name="cloud_config_ipaddress_list" value=""/>
+    <attributes name="cloud_env_GUID" value="7c540db0-3b24-4190-ba9e-3427450e2b4a"/>
+    <attributes name="cloud_env_name" value="Kony Digital Solutions Lab Team-DigitalSolutionsLab"/>
     <attributes name="cloud_http_redirect" value="false"/>
     <attributes name="cloud_selected_ipaddress_list" value=""/>
+    <attributes name="cloud_url" value="https://digitalsolutionslab.konycloud.com"/>
     <attributes name="cloud_web_xml_custom_filters" value=""/>
     <attributes name="cloud_web_xml_custom_listeners" value=""/>
     <attributes name="cloud_web_xml_custom_mappings" value=""/>
@@ -261,7 +264,7 @@
     <attributes name="Contacts" value="true"/>
     <attributes name="CONTROL_LOCATION_UPDATES" value="false"/>
     <attributes name="createdgaversion" value="8.3.0"/>
-    <attributes name="currentgaversion" value="8.3.0"/>
+    <attributes name="currentgaversion" value="8.3.13.v201812241225"/>
     <attributes name="deeplinkkey" value="None"/>
     <attributes name="defaultlocalekey" value=""/>
     <attributes name="defaultlocalekey" value=""/>
@@ -285,8 +288,6 @@
     <attributes name="Documents_Library_Access" value="true"/>
     <attributes name="DUMP" value="false"/>
     <attributes name="enableactionbar" value="false"/>
-    <attributes name="enableasyncdesktopweb" value="true"/>
-    <attributes name="enableasyncspa" value="true"/>
     <attributes name="enableautomaticeventcap" value="true"/>
     <attributes name="enableAwssdk" value="false"/>
     <attributes name="enablecharts2d3d" value="false"/>
@@ -299,7 +300,6 @@
     <attributes name="enableOfflineObjects" value="false"/>
     <attributes name="enableOfflineObjectsDW" value="false"/>
     <attributes name="enableOfflineObjectsSpa" value="false"/>
-    <attributes name="enableProgressiveWeb" value="false"/>
     <attributes name="enableResponsive" value="true"/>
     <attributes name="enablesearchbar" value="false"/>
     <attributes name="enablesearchbarandwear" value="false"/>
@@ -387,7 +387,6 @@
     <attributes name="iphone_spotlighticon_3x_29" value=""/>
     <attributes name="iphone_spotlighticon_3x_40" value=""/>
     <attributes name="isA11yConfigEnabled" value="false"/>
-    <attributes name="isCrittercismEnabled" value="false"/>
     <attributes name="isDpScaleFactor" value="true"/>
     <attributes name="isNewAppWithRespectToAndroidPackageName" value="true"/>
     <attributes name="isNewAppWithRespectToAndroidWearPackageName" value="true"/>
@@ -420,12 +419,13 @@
     <attributes name="MOUNT_UNMOUNT_FILESYSTEMS" value="false"/>
     <attributes name="musicLibrary" value="false"/>
     <attributes name="Music_Library" value="true"/>
+    <attributes name="mwaddrkey" value=""/>
     <attributes name="mwcontextkey" value=""/>
     <attributes name="mwhttpsportkey" value="443"/>
     <attributes name="mwportkey" value="80"/>
     <attributes name="NFC" value="false"/>
     <attributes name="objects3D" value="false"/>
-    <attributes name="passwordkey" value=""/>
+    <attributes name="passwordkey" value="kds/0eUc+i3BqFqSkpCk4g=="/>
     <attributes name="pasteboardtype" value="systemlevel"/>
     <attributes name="pathkey" value=""/>
     <attributes name="pathkey_andwear" value=""/>
